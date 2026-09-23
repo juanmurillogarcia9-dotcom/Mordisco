@@ -1,0 +1,116 @@
+🔑 Got authentication token
+
+🔍 Fetching latest deployment...
+✅ Found latest deployment (personal account)
+
+📦 Deployment ID:  dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8
+🌐 Deployment URL: mordisco-kz59ja6vz-murillo14.vercel.app
+📁 Project:        mordisco-app
+
+📋 Fetching file tree from API...
+
+✅ Got file tree (8 top-level entries)
+
+📁 Output directory: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source
+
+🗑️  Clearing previous download...
+
+⬇️  Downloading files...
+   (Use --verbose to see detailed progress)
+
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\assets\flUhRq6tzZclQEJ-Vdg-IuiaDsNa-Dr0goTwe.woff
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\assets\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ-D-x-0Q06.woff2
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\assets\index-Be9vPcYJ.js
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\assets\index-D_6CKojf.css
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\favicon.svg
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\icons.svg
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\index.html
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\public\favicon.svg
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\public\icons.svg
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\assets\hero.png
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\assets\vite.svg
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\assets\vue.svg
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\components\CategoryBanner.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\components\ChefRecommendation.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\components\ProductCard.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\routers\routes.js
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\bebidas.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\hamburguesas.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\inicio.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\nosotros.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\perros.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\pizzas.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\postres.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\promociones.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\App.vue
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\main.js
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\quasar-variables.sass
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\style.css
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\README.md
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\index.html
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\package-lock.json
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\package.json
+✅ Downloaded: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\vite.config.js
+
+🎉 All files processed successfully!
+
+📊 Running comparison...
+
+📁 Total files: 33
+   ✅ Downloaded: 33
+   ⏭️  Skipped: 0
+   ❌ Failed: 0
+💾 Total size: 1.08 MB
+
+📈 File types breakdown:
+   vue               12 files
+   svg                6 files
+   js                 4 files
+   css                2 files
+   html               2 files
+   json               2 files
+   woff               1 files
+   woff2              1 files
+   png                1 files
+   sass               1 files
+
+🌳 File structure tree:
+
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\assets\flUhRq6tzZclQEJ-Vdg-IuiaDsNa-Dr0goTwe.woff
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\assets\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ-D-x-0Q06.woff2
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\assets\index-Be9vPcYJ.js
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\assets\index-D_6CKojf.css
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\favicon.svg
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\icons.svg
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\dist\index.html
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\index.html
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\package-lock.json
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\package.json
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\public\favicon.svg
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\public\icons.svg
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\README.md
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\App.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\assets\hero.png
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\assets\vite.svg
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\assets\vue.svg
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\components\CategoryBanner.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\components\ChefRecommendation.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\components\ProductCard.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\main.js
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\quasar-variables.sass
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\routers\routes.js
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\style.css
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\bebidas.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\hamburguesas.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\inicio.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\nosotros.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\perros.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\pizzas.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\postres.vue
+├── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\src\views\promociones.vue
+└── 📄 C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\source\vite.config.js
+
+✨ Download and verification complete!
+📄 Full log saved to: C:\Users\juanm\out\dpl_FpxN4NFLZ1YsPkDzdMxst6c7Uvd8\download-log.txt
+   (Use --verbose to see file tree and skipped files)
+
